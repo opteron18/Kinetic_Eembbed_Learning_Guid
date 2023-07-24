@@ -1,4 +1,4 @@
-# This guid is for all Kineticrobotics menbers to learn embbed faster and less pain.
+# This guid is for all Kineticrobotics members to learn embbed faster and less pain.
 # 这个教程是给全部Kineticrobotics队员更快地、更少痛苦地学习嵌入式。
 ### 一、首先需要介绍在一支Robomaster队伍里一位嵌入式队员的职责和任务
   - [RoboMaster电控组工作总结与基本思路]([https://www.baidu.com](https://zhuanlan.zhihu.com/p/569160065)https://zhuanlan.zhihu.com/p/569160065) 这是哈尔滨工程大学王洪玺的知乎文章，我认为王工的高度比我这个嵌入式底层人员写的好太多，那就先抛砖引玉一下。
